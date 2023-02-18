@@ -11,6 +11,7 @@
         <img src="/MyFood/public/img/pupusa.jpg"  alt="...">
         <img src="/MyFood/public/img/pupusa.jpg"  alt="...">
         <img src="/MyFood/public/img/pupusa.jpg"  alt="...">
+        <img src="/MyFood/public/img/pupusa.jpg"  alt="...">
     </section>
     </div>
     
