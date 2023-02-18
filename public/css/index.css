@@ -3,7 +3,7 @@
     font-weight: 100;
 }
 
-.container {
+.container-home {
     display: flex;
     flex-direction: row;
     min-width: 600px;
